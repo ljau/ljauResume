@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/luis-jauregui-resume/static/css/main.e6c13ad2.css",
+    "main.js": "/luis-jauregui-resume/static/js/main.82505074.js",
+    "static/media/profile-pic.jpg": "/luis-jauregui-resume/static/media/profile-pic.a0326886889f4d6bdf4f.jpg",
+    "index.html": "/luis-jauregui-resume/index.html",
+    "main.e6c13ad2.css.map": "/luis-jauregui-resume/static/css/main.e6c13ad2.css.map",
+    "main.82505074.js.map": "/luis-jauregui-resume/static/js/main.82505074.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.82505074.js"
+  ]
+}
