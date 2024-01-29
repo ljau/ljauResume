@@ -9,7 +9,7 @@ import { faGithub, faLinkedin } from "@fortawesome/free-brands-svg-icons";
 
 export const aboutMe = {
   about:
-    "Motivated and productive web developer with a passion for learning and teamwork. Proficient in React JS, Javascript, HTML & CSS. Dedicated to learning additional technologies and coding languages (completed a bootcamp for React Native development). Collaborated in a couple of contest winner videogame development projects using Unity engine and C#. Looking for a Junior position at a great company to be a hard-working asset to any team, to learn, grow and develop long-term.",
+    "Desarrollador web motivado y productivo con pasión por el aprendizaje y el trabajo en equipo. Competente en React JS, Javascript, HTML y CSS. Dedicado a aprender tecnologías adicionales y lenguajes de codificación (participé un bootcamp de React Native). Colaboré en un par de proyectos de desarrollo de videojuegos ganadores de concursos utilizando el motor de juegos de Unity y C#. Me encuentro buscando un puesto en alguna gran empresa que requiera un trabajador proactivo para cualquier equipo, para aprender, crecer y desarrollarse a largo plazo.",
 };
 
 export const education = [
@@ -17,59 +17,59 @@ export const education = [
     key: "0",
     role: "Bright Coders",
     place: "Bright Coders Academy",
-    time: "Aug 2021 - Dec 2021",
+    time: "Ago 2021 - Dic 2021",
     details:
-      "-Intensive training program for Apps development using React Native, Firebase, Git & Github. \n-Applying best programming practices, clean code, remote teamwork and collaboration. \n-Agile project management and development.",
+      "-Programa intensivo de formación para el desarrollo de Aplicaciones utilizando React Native, Firebase, \n  Git & Github. \n-Aplicar mejores prácticas de programación, código limpio, trabajo en equipo remoto y colaboración. \n-Gestión y desarrollo ágil de proyectos.",
   },
   {
     key: "1",
-    role: "Telematics Engineering Bachelor's Degree",
+    role: "Ingeniería en Telemática",
     place: "Universidad de Colima",
     time: "2019",
-    details: "-Design and develop network and telecommunications services. \n-Design distributed applications aimed at administration and electronic commerce.\n-Plan and manage technologies for local area (LAN), metropolitan area (MAN) and wide area (WAN) environments.",
+    details: "-Diseñar y desarrollar servicios de redes y telecomunicaciones.\n-Diseñar aplicaciones distribuidas dirigidas a la administración y el comercio electrónico.\n-Planificar y gestionar tecnologías para entornos de área local (LAN), área metropolitana (MAN) y área amplia \n  (WAN).",
   },
 ];
 
 export const experience = [
   {
     key: "0",
-    role: "Front-end Freelance",
-    time: "2022 - Current",
-    place: "Banshees Veil",
+    role: "Desarrollador Front-end Freelance",
+    time: "2022 - Actualidad",
+    place: "Banshee's Veil",
     details:
-      "-Development of Mobile applications using React Native, Firebase & Node.js \n-Development of Web applications using React.js, Next.js, Node.js and express.js",
+      "-Desarrollo de aplicaciones Móviles utilizando React Native, Firebase & Node.js\n-Desarrollo de aplicaciones Web utilizando React.js, Next.js, Node.js y express.js",
   },
   {
     key: "1",
-    role: "React JS Developer",
+    role: "Desarrollador React JS",
     time: "2022 - 2023",
     place: "TATA CONSULTANCY SERVICES",
     details:
-      "-Develop reusable components and front-end libraries for future use. \n-Collaborate with other team members and stakeholders. \n-Develop and maintain user interfaces using React.js.",
+      "-Desarrollo de componentes reutilizables y bibliotecas front-end para uso futuro.\n-Colaboración con otros miembros de equipo y partes interesadas.\n-Desarrollo y mantenimiento de interfaces de usuario usando React.js.",
   },
   {
     key: "1",
-    role: "System Administrator",
+    role: "Administrador de Sistemas",
     time: "2019 - 2022",
     place: "TATA CONSULTANCY SERVICES",
     details:
-      "-Configuration, monitoring and maintenance of Unix operating systems on physical and virtual machines. \n-Use of web applications for monitoring alerts and management of servers and users information.",
+      "-Configuración, seguimiento y mantenimiento de sistemas operativos Unix en máquinas físicas y virtuales.\n-Uso de aplicaciones web para el seguimiento de alertas y gestión de servidores e información de usuarios.",
   },
   {
     key: "2",
-    role: "Videogame Developer",
+    role: "Desarrollador de Videojuegos",
     time: "2021",
-    place: "Banshees Veil",
+    place: "Banshee's Veil",
     details:
-      "-Stay At Home -(C#-Unity5-Windows-Android) \n-Winner of the regional contest Games 4 empowerment (4th edition) in cathegory of Best Contribution -Released for Windows 10 and Android platforms.",
+      "-Stay At Home -(C#-Unity5-Windows-Android) \n-Ganador del concurso regional Games 4 Empowerment  (4ta edición) en la categoría de Mejor contribución\n-Lanzado para plataformas Windows 10 y Android.",
   },
   {
     key: "3",
-    role: "Videogame Developer",
+    role: "Desarrollador de Videojuegos",
     time: "2018",
-    place: "Banshees Veil",
+    place: "Banshee's Veil",
     details:
-      "-Wood of War -(C#-Unity5-Android) \n-Winner of the regional contest Games 4 empowerment (1st edition) \n-Participated in the national contest National video game contest mx 2018",
+      "-Wood of War -(C#-Unity5-Android) \n-Ganador del concurso regional Games 4 Empowerment (1ª edición)\n-Participé en el concurso nacional Concurso nacional de videojuegos mx 2018",
   },
 ];
 
@@ -97,19 +97,19 @@ export const skills = [
 
 export const softSkills = [
   {
-    description: "Teamwork",
+    description: "Trabajo en equipo",
   },
   {
-    description: "Persistence",
+    description: "Persistencia",
   },
   {
-    description: "Adaptability",
+    description: "Adaptabilidad",
   },
   {
-    description: "Ease of Learning",
+    description: "Facilidad de aprendizaje",
   },
   {
-    description: "Positive Attitude",
+    description: "Actitud positiva",
   },
 ];
 
@@ -143,7 +143,7 @@ export const contact = [
 
 export const skillsSectionsList = [
   {
-    title: "Skills",
+    title: "Aptitudes",
     icon: faWrench,
   },
   {
@@ -151,7 +151,7 @@ export const skillsSectionsList = [
     icon: faUserPlus,
   },
   {
-    title: "Contact",
+    title: "Contacto",
     icon: faAddressCard,
   },
 ];

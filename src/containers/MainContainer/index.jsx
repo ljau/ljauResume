@@ -45,21 +45,21 @@ export const MainContainer = () => {
       <FlexContainer minHeight="90vh">
         <FlexContainer h="20%" w="90%" align>
           <CustomLabel color={colors.delftBlue}>
-            <FontAwesomeIcon icon={faUser} /> About Me
+            <FontAwesomeIcon icon={faUser} /> Acerca de mi
           </CustomLabel>
           <CustomText>{aboutMe.about}</CustomText>
         </FlexContainer>
 
         <FlexContainer h="20%" w="90%" align>
           <CustomLabel color={colors.delftBlue}>
-            <FontAwesomeIcon icon={faGraduationCap} /> Education
+            <FontAwesomeIcon icon={faGraduationCap} /> Educación
           </CustomLabel>
           {educationDetails}
         </FlexContainer>
 
         <FlexContainer h="20%" w="90%" align>
           <CustomLabel color={colors.delftBlue}>
-            <FontAwesomeIcon icon={faBriefcase} /> Experience
+            <FontAwesomeIcon icon={faBriefcase} /> Experiencia
           </CustomLabel>
           {experienceDetails}
         </FlexContainer>

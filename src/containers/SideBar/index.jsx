@@ -30,11 +30,11 @@ export const SideBar = () => {
 
   const getDetails = (section) => {
     switch (section) {
-      case "Skills":
+      case "Aptitudes":
         return skills.map((data) => {
           return getData(data);
         });
-      case "Contact":
+      case "Contacto":
         return contact.map((data) => {
           return getData(data, "Contact");
         });
